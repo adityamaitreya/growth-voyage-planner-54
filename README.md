@@ -1,7 +1,7 @@
 
-# GrowthSim - Startup Growth Simulator
+# vgroww - Startup Growth Simulator
 
-GrowthSim is a powerful tool for modeling a startup's growth trajectory based on inputs like marketing spend, user acquisition rates, and churn.
+vgroww is a powerful tool for modeling a startup's growth trajectory based on inputs like marketing spend, user acquisition rates, and churn.
 
 ## Features
 
